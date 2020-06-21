@@ -1,4 +1,5 @@
 Practical Machine Learning Course Project
+
 Practical Machine Learning by Johns Hopkins University on Coursera
 
 Method
